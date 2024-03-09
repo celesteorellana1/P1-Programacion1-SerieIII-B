@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\bin\Debug\net8.0\PrimerParcialProgra1.exe
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\bin\Debug\net8.0\PrimerParcialProgra1.deps.json
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\bin\Debug\net8.0\PrimerParcialProgra1.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\bin\Debug\net8.0\PrimerParcialProgra1.dll
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\bin\Debug\net8.0\PrimerParcialProgra1.pdb
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.dll
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\refint\PrimerParcialProgra1.dll
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.pdb
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\PrimerParcialProgra1.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\PrimerParcialProgra1\PrimerParcialProgra1\obj\Debug\net8.0\ref\PrimerParcialProgra1.dll
